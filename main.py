@@ -70,6 +70,3 @@ if __name__ == '__main__':
 		vis = Visualiser(4,4,80, env.hell_blocks, env.goal, env.enemy)
 		RL = QLearn(actions=list(range(env.n_actions)), e_greedy=1.0)
 		run_optimal()
-
-
-
