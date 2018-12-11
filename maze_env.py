@@ -100,6 +100,3 @@ class Maze(object):
 
 
 
-
-
-
