@@ -84,7 +84,6 @@ class Maze(object):
 					output += "H "
 				elif(row == self.goal[0] and col == self.goal[1]):
 					output += "G "
-				
 				else:
 					output += "O "
 			output += "\n"
