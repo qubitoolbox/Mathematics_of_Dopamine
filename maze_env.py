@@ -96,7 +96,3 @@ class Maze(object):
 # 	print(env.display_env())
 # 	# print(env.get_info())
 # 	print(env.display_env())
-
-
-
-
